@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "mattotodd",
-    "repositoryName": "mattotodd.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"mattotodd","repositoryName":"mattotodd.github.io","branch":"master"},"site":{"title":"Test Blog","url":"http://mattotodd.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://mattotodd.github.io/themes/Casper"}}
